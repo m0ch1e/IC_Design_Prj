@@ -1,0 +1,39 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\ct_vi\Documents\IC_Design_Layout\IC_Design_Layout\
+Output folder        = C:\Users\ct_vi\Documents\IC_Design_Layout\IC_Design_Layout\Counter_Cell
+
+	Parsing "C:\Users\ct_vi\Documents\IC_Design_Layout\IC_Design_Layout\Counter_Cell.sp"
+Warning : No simulation commands found in input file.
+
+Start of Counter_Cell.sp
+Fatal Error : "Counter_Cell.sp" line 25 Could not resolve model "NMOS25" referenced by "XD3_Ctrl_1.MMn1"
+Fatal Error : "Counter_Cell.sp" line 26 Could not resolve model "NMOS25" referenced by "XD3_Ctrl_1.MMn2"
+Fatal Error : "Counter_Cell.sp" line 27 Could not resolve model "NMOS25" referenced by "XD3_Ctrl_1.MMn3"
+Fatal Error : "Counter_Cell.sp" line 28 Could not resolve model "NMOS25" referenced by "XD3_Ctrl_1.MMn4"
+Fatal Error : "Counter_Cell.sp" line 29 Could not resolve model "PMOS25" referenced by "XD3_Ctrl_1.MMp1"
+Fatal Error : "Counter_Cell.sp" line 30 Could not resolve model "PMOS25" referenced by "XD3_Ctrl_1.MMp2"
+Fatal Error : "Counter_Cell.sp" line 31 Could not resolve model "PMOS25" referenced by "XD3_Ctrl_1.MMp3"
+Fatal Error : "Counter_Cell.sp" line 32 Could not resolve model "PMOS25" referenced by "XD3_Ctrl_1.MMp4"
+Fatal Error : "Counter_Cell.sp" line 36 Could not resolve model "NMOS25" referenced by "XDFF_1.MMn1"
+Fatal Error : "Counter_Cell.sp" line 37 Could not resolve model "NMOS25" referenced by "XDFF_1.MMn2"
+Fatal Error : "Counter_Cell.sp" line 38 Could not resolve model "NMOS25" referenced by "XDFF_1.MMn3"
+Fatal Error : "Counter_Cell.sp" line 39 Could not resolve model "NMOS25" referenced by "XDFF_1.MMn4"
+Fatal Error : "Counter_Cell.sp" line 40 Could not resolve model "NMOS25" referenced by "XDFF_1.MMn5"
+Fatal Error : "Counter_Cell.sp" line 41 Could not resolve model "PMOS25" referenced by "XDFF_1.MMp1"
+Fatal Error : "Counter_Cell.sp" line 42 Could not resolve model "PMOS25" referenced by "XDFF_1.MMp2"
+Fatal Error : "Counter_Cell.sp" line 43 Could not resolve model "PMOS25" referenced by "XDFF_1.MMp3"
+Fatal Error : "Counter_Cell.sp" line 44 Could not resolve model "PMOS25" referenced by "XDFF_1.MMp4"
+Fatal Error : "Counter_Cell.sp" line 45 Could not resolve model "PMOS25" referenced by "XDFF_1.MMp5"
+
+Parsing                      0.04 seconds
+Setup                        0.01 seconds
+Overhead                     0.73 seconds
+-----------------------------------------
+Total                        0.78 seconds
+
+Simulation failed	with  1 Warning  18 Fatal Errors
