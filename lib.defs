@@ -12,7 +12,3 @@ DEFINE SPICE_Sources ..\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries
 ASSIGN SPICE_Sources libMode shared
 DEFINE SPICE_Plot ..\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\SPICE_Plot
 ASSIGN SPICE_Plot libMode shared
-DEFINE Devices_160 ..\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries_160\Devices
-ASSIGN Devices_160 libMode shared
-DEFINE Misc_160 ..\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries_160\Misc
-ASSIGN Misc_160 libMode shared

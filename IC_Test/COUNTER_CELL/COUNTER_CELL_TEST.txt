@@ -1,0 +1,9 @@
+COUNTER_CELL_TEST
+
+Transient Analysis
+Stop Time = 2000n
+Max Time Step = 1n
+
+Parameters
+In = Delay = 0n, FT = 5p, RT = 5p, Period = 2000n, VHigh = 5, VLow = 0;
+clk = Delay = 50n, FT = 5p, RT = 5p, Period = 100n, VHigh = 5, VLow = 0;
