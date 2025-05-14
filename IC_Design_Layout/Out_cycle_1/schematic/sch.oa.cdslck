@@ -5,12 +5,12 @@
 #
 LockStakeVersion               1.1
 LoginName                      ct_vi
-HostName                       LAPTOP-BSJEJ0LG
-ProcessIdentifier              32140
-ProcessCreationTime_UTC        1746355046
-ProcessCreationTime_Readable   Sun May  4 18:37:26 2025 Malay Peninsula Standard Time
+HostName                       DESKTOP-772AE1M
+ProcessIdentifier              25080
+ProcessCreationTime_UTC        1747236108
+ProcessCreationTime_Readable   Wed May 14 23:21:48 2025 Malay Peninsula Standard Time
 AppIdentifier                  OA File System Design Manager
 OSType                         win32
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         C:\Users\ct_vi\Documents\IC_Design_Layout\IC_Design_Layout\Out_cycle_1\schematic\sch.oa.cdslck.dirlck
-TimeEditLocked                 Sun May  4 19:00:09 2025 Malay Peninsula Standard Time
+FilePathUsedToEditLock         C:\Users\ct_vi\Documents\IC_Design_Layout\IC_Design_Layout\Out_cycle_1\schematic\sch.oa.cdslck
+TimeEditLocked                 Wed May 14 23:23:24 2025 Malay Peninsula Standard Time

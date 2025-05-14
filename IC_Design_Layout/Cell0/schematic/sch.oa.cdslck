@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ct_vi
+HostName                       DESKTOP-772AE1M
+ProcessIdentifier              27244
+ProcessCreationTime_UTC        1747233195
+ProcessCreationTime_Readable   Wed May 14 22:33:15 2025 Malay Peninsula Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\ct_vi\Documents\IC_Design_Layout\IC_Design_Layout\Cell0\schematic\sch.oa.cdslck
+TimeEditLocked                 Wed May 14 22:36:00 2025 Malay Peninsula Standard Time
