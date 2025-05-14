@@ -1,0 +1,1 @@
+setup calibre set -control {LVS SPICE} -insert .SUBCKT\ NMOS25\ D\ G\ S\ B\r\n.ENDS\r\n.SUBCKT\ PMOS25\ D\ G\ S\ B\r\n.ENDS\r\n.SUBCKT\ NMOS33\ D\ G\ S\ B\r\n.ENDS\r\n.SUBCKT\ PMOS33\ D\ G\ S\ B\r\n.ENDS -append {}

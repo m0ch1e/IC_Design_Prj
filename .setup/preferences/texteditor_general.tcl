@@ -1,0 +1,1 @@
+texteditor options -autoload prompt -save all

@@ -1,0 +1,1 @@
+setup selection set -selectionmode partiallyenclosed -selectionrange 5 -editrange 5 -goto zoom -tracenets on

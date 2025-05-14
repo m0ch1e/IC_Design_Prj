@@ -1,0 +1,9 @@
+MAIN_CIRC_TEST
+
+Transient Analysis
+Stop Time = 8000n
+Max Time Step = 10n
+
+Parameters
+In = Delay = 75n, FT = 5p, RT = 5p, Period = 3u, VHigh = 5, VLow = 0;
+clk = Delay = 50n, FT = 5p, RT = 5p, Period = 100n, VHigh = 5, VLow = 0;

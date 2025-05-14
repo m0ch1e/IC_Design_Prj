@@ -1,0 +1,118 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\ct_vi\AppData\Local\Temp\
+Output folder        = C:\Users\ct_vi\AppData\Local\Temp\Main_Circ
+
+	Parsing "C:\Users\ct_vi\AppData\Local\Temp\Main_Circ.sp"
+	Reading library entry "TT" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "GEN" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "GEN_LVS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "Diodes" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "RES_CAP_GEN" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "SIM_SUBCIRCUITS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "TT_NMOS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "NMOS_MODEL" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "TT_PMOS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "PMOS_MODEL" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "RES_TYP" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "RES_SUBCIRCUITS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "CAP_TYP" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "CAP_SUBCIRCUITS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "TT_Bipolar" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "Bipolars" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+
+Start of Main_Circ.sp
+Loaded BSIM3v33 model library, Berkeley BSIM3 v3.3.0
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+Loaded BJT model library, Gummel-Poon Bipolar with extensions
+
+General options:
+        threads = 2
+
+Output options:
+         prtdel = 4e-09
+
+ Device and node counts:
+              MOSFETs -      94
+    MOSFET geometries -       2
+           Capacitors -       6
+            Resistors -      12
+      Voltage sources -       3
+   Subckt Definitions -       9
+     Subckt Instances -      20
+     Unique Instances -      10
+    Model Definitions -       9
+      Computed Models -       2
+    Independent nodes -     256
+       Boundary nodes -       4
+          Total nodes -     260
+
+	Opening simulation database "C:\Users\ct_vi\AppData\Local\Temp\Main_Circ.tsim"
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = C:\Users\ct_vi\AppData\Local\Temp\
+Output folder        = C:\Users\ct_vi\AppData\Local\Temp\Main_Circ
+
+	Parsing "C:\Users\ct_vi\AppData\Local\Temp\Main_Circ.sp"
+	Reading library entry "TT" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "GEN" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "GEN_LVS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "Diodes" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "RES_CAP_GEN" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "SIM_SUBCIRCUITS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "TT_NMOS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "NMOS_MODEL" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "TT_PMOS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "PMOS_MODEL" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "RES_TYP" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "RES_SUBCIRCUITS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "CAP_TYP" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "CAP_SUBCIRCUITS" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "TT_Bipolar" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+	Reading library entry "Bipolars" from "C:\Users\ct_vi\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Models\Generic_250nm.lib"
+
+Start of Main_Circ.sp
+Loaded BSIM3v33 model library, Berkeley BSIM3 v3.3.0
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+Loaded BJT model library, Gummel-Poon Bipolar with extensions
+
+General options:
+        threads = 2
+
+Output options:
+         prtdel = 4e-09
+
+ Device and node counts:
+              MOSFETs -      94
+    MOSFET geometries -       2
+           Capacitors -       6
+            Resistors -      12
+      Voltage sources -       3
+   Subckt Definitions -       9
+     Subckt Instances -      20
+     Unique Instances -      10
+    Model Definitions -       9
+      Computed Models -       2
+    Independent nodes -     256
+       Boundary nodes -       4
+          Total nodes -     260
+
+	Opening simulation database "C:\Users\ct_vi\AppData\Local\Temp\Main_Circ.tsim"
+
+Parsing                      0.06 seconds
+Setup                        0.02 seconds
+Transient Analysis           2.62 seconds
+Output                       0.01 seconds
+Overhead                     0.48 seconds
+-----------------------------------------
+Total                        3.19 seconds
+
+Simulation completed

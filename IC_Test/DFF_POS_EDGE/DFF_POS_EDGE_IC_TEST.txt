@@ -1,0 +1,10 @@
+DFF_POS_EDGE_IC_TEST
+
+Transient Analysis
+Stop Time = 2000n
+Max Time Step = 1n
+
+Parameters
+Din = Delay = 75n, FT = 5p, RT = 5p, Period = 400n, VHigh = 5, VLow = 0;
+clk = Delay = 50n, FT = 5p, RT = 5p, Period = 100n, VHigh = 5, VLow = 0;
+resbar = Delay = 0n, FT = 5p, RT = 5p, Period = 2000n, VHigh = 5, VLow = 0;

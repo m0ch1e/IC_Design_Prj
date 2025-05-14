@@ -1,0 +1,16 @@
+setup schematiccolors set -wire #3ac0ff
+setup schematiccolors set -graphic #00cc66
+setup schematiccolors set -background black
+setup schematiccolors set -selection yellow
+setup schematiccolors set -minorgrid white
+setup schematiccolors set -majorgrid white
+setup schematiccolors set -selectionbox white
+setup schematiccolors set -portinstance #bf0000
+setup schematiccolors set -portshape #ff01ff
+setup schematiccolors set -porttext #ff01ff
+setup schematiccolors set -netlabel #3ac0ff
+setup schematiccolors set -textlabel #ff0100
+setup schematiccolors set -cellname #00cc66
+setup schematiccolors set -instancename #d9cc00
+setup schematiccolors set -property #bfbfbf
+setup schematiccolors set -hiddenproperty #7f7f7f

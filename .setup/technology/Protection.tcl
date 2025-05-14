@@ -1,0 +1,1 @@
+setup protection set -callbacks
